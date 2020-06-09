@@ -1,1 +1,2 @@
 Hi aLL
+Added a new line in sample document
